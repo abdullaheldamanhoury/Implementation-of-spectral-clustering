@@ -4,7 +4,7 @@
   
 ## Project description
 <ul>
-<li>spectral clustering algorithm was implemented to use the sign of the components of the eigenvector corresponding to the second smallest eigenvalue for clustering.The following weight function such as the image above was used.</li>
+<li>Spectral clustering algorithm was implemented to use the sign of the components of the eigenvector corresponding to the second smallest eigenvalue for clustering.The following weight function such as the image above was used.</li>
 </ul>
 <ul>
 <li>This application is the clustering algorithm to the 2-dimension data provided in the file “SpectData.txt” with the goal of 
